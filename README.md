@@ -9,3 +9,5 @@ More extensive documentation is [online at clank.tools/tools](https://clank.tool
 ![illustration](log/images/2021-04-30_multitool-dwg.png)
 
 ![demo video](log/video/2021-12-08_clank-pencil-demo.mp4)
+
+This repo is mirrored [on github](https://github.com/jakeread/hotplate-toolchanger/) and the [cba internal gitlab](https://gitlab.cba.mit.edu/jakeread/hotplate-toolchanger/).
